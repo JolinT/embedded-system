@@ -19,3 +19,9 @@ void show_info(double d, int16_t n){
 
     printf("d = %f, n = %d \n", d, n);
 }
+
+/*
+OUTPUT:
+d = 32767.000000, n = 32767 
+d = 32768.000000, n = -32768
+*/
